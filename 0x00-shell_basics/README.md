@@ -1,1 +1,1 @@
-This is a repository where the script is contained.
+This repository contains the script.

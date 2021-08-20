@@ -1,0 +1,1 @@
+This repository prints the path of current directory.
