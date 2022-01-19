@@ -1,0 +1,1 @@
+This repository contains files and school projects on processes and signals.
